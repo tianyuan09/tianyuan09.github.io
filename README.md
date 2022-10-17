@@ -2,9 +2,6 @@
 
 This is a blog. 
 
-## About Me
+# About Me
 
-
-# ABOUT ME
-
-Some description. 
+Yuan
